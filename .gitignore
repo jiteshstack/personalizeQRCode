@@ -1,0 +1,26 @@
+#IDE config
+.vscode
+.idea
+.DS_Store
+
+#Environment variables
+.env
+newrelic_agent.log
+
+#Dependencies
+/node_modules
+/node_modules1
+
+#Database
+database
+dump.rdb
+
+#Misc
+upload
+uploads
+logs
+app/paymentPdf
+app/ombudsman/
+newrelic_agent.log
+contact.vcf
+generate_vcard.js
